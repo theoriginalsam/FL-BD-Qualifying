@@ -31,7 +31,7 @@ rbbd_federated_defense/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/rbbd-federated-defense.git
+git clone https://github.comtheoriginalsam/rbbd-federated-defense.git
 cd rbbd-federated-defense
 ```
 
