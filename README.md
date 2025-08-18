@@ -113,7 +113,7 @@ This implementation closely follows the paper methodology:
 
 **Representation Deviation Score**:
 ```
-S_dev(c_i) = (1/L) * Σ D_KL(f_l^baseline || f_l^c_i)
+Coming soon
 ```
 
 **Edge-Case Impact Score**:
